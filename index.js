@@ -1,3 +1,7 @@
-let ola = "Olá mundo"
+let nomeHeroi = "Ronaldo"
+let xpHeroi = 5000
 
-console.log(ola)
+if (xpHeroi < 1000){
+    nivel = "Ferro"
+}
+console.log("O nivel do " + nomeHeroi + " é " + xpHeroi)
